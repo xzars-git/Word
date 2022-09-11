@@ -8,10 +8,11 @@
     android:background="@color/white"
     tools:context=".MainActivity">
     
-    <FrameLayout
+    <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/Fragment_vertical_words"/>
+        tools:listitem="@layout/each_word"
+        android:id="@+id/recView"/>
 
 
 
