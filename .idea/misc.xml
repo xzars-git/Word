@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Freelance Project/01. Historiapreunership App/app/src/main/res/layout/activity_main.xml" value="0.16032608695652173" />
+        <entry key="..\:/Freelance Project/01. Historiapreunership App/app/src/main/res/layout/each_word.xml" value="0.2033514492753623" />
+        <entry key="..\:/Freelance Project/01. Historiapreunership App/app/src/main/res/layout/fragment_detailed_word.xml" value="0.1" />
+        <entry key="..\:/Freelance Project/01. Historiapreunership App/app/src/main/res/layout/fragment_detailed_word2.xml" value="0.1" />
+        <entry key="..\:/Freelance Project/01. Historiapreunership App/app/src/main/res/layout/fragment_detailed_word_b.xml" value="0.1" />
+        <entry key="..\:/Freelance Project/01. Historiapreunership App/app/src/main/res/layout/fragment_detailed_word_c.xml" value="0.1" />
+        <entry key="..\:/Freelance Project/01. Historiapreunership App/app/src/main/res/layout/fragment_detailed_word_d.xml" value="0.1" />
+        <entry key="..\:/Freelance Project/01. Historiapreunership App/app/src/main/res/layout/fragment_detailed_word_e.xml" value="0.1" />
+        <entry key="..\:/Freelance Project/01. Historiapreunership App/app/src/main/res/layout/fragment_detailed_word_f.xml" value="0.1" />
+        <entry key="..\:/Freelance Project/01. Historiapreunership App/app/src/main/res/layout/fragment_detailed_word_g.xml" value="0.1" />
+        <entry key="..\:/Freelance Project/01. Historiapreunership App/app/src/main/res/layout/fragment_detailed_word_h.xml" value="0.1" />
+        <entry key="..\:/Freelance Project/01. Historiapreunership App/app/src/main/res/layout/fragment_detailed_word_i.xml" value="0.1" />
+        <entry key="..\:/Freelance Project/01. Historiapreunership App/app/src/main/res/layout/fragment_detailed_word_j.xml" value="0.1" />
+        <entry key="..\:/Freelance Project/01. Historiapreunership App/app/src/main/res/layout/fragment_vertical__word.xml" value="0.2621654501216545" />
+        <entry key="..\:/Freelance Project/01. Historiapreunership App/app/src/main/res/layout/vertical_words.xml" value="0.2033514492753623" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

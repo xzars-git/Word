@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Words</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+    <string name="E">E</string>
+    <string name="F">F</string>
+    <string name="G">G</string>
+    <string name="H">H</string>
+    <string name="I">I</string>
+    <string name="J">J</string>
+
+    <string name="Austria">Austria</string>
+    <string name="Australia">Australia</string>
+    <string name="Andora">Andora</string>
+
+    <string name="Belgia">Belgia</string>
+    <string name="Belanda">Belanda</string>
+    <string name="Brazil">Brazil</string>
+
+    <string name="Chad">Chad</string>
+    <string name="China">China</string>
+    <string name="Ceko">Ceko</string>
+
+    <string name="Denmark">Denmark</string>
+    <string name="Dominika">Dominika</string>
+    <string name="Djibouti">Djibouti</string>
+
+    <string name="Ekuador">Ekuador</string>
+    <string name="El_Salvador">El Salvador</string>
+    <string name="Estonia">Estonia</string>
+
+    <string name="Fiji">Fiji</string>
+    <string name="Filipina">Filipina</string>
+    <string name="Finlandia">Finlandia</string>
+
+    <string name="Ghana">Ghana</string>
+    <string name="Gabon">Gabon</string>
+    <string name="Gambia">Gambia</string>
+
+    <string name="Haiti">Haiti</string>
+    <string name="Hungaria">Hungaria</string>
+    <string name="Honduras">Honduras</string>
+
+    <string name="Indonesia">Indonesia</string>
+    <string name="Iran">Iran</string>
+    <string name="Italia">Italia</string>
+
+    <string name="Jepang">Jepang</string>
+    <string name="Jerman">Jerman</string>
+    <string name="Jamaika">Jamaika</string>
+</resources>
